@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+$body-font-family: 'Roboto', sans-serif !important;
+$sources-font-family: 'Source Sans Pro', sans-serif !important;
+$text-base: #576078;
+$text-lighten1: #697785;
+$text-lighten2: #a7afc3;
+$text-lighten3: #dce1ed;
+$text-lighten4: #ffffff;
+$text-darken1: #1f272f;
+$text-darken2: #1565c0;
+$text-darken3: #1a5598;
+$text-darken4: #263357;
+$background-color: #1565c0;
+
+//VUETIFY OVERWRITE
+
+//v-btn
+$btn-sizes: (
+  x-large: 48,
+);
