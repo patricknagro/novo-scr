@@ -28,7 +28,7 @@ h3,
 h4,
 h5 {
   font-family: $sources-font-family;
-  color: $text-darken4;
+  color: var(--v-paragraph-darken2);
   font-weight: 600;
   line-height: 1.6;
 }
